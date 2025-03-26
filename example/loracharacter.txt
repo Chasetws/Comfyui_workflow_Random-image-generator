@@ -1,0 +1,5 @@
+Character/nagatoro-multi-outfit_ILL_epoch_10.safetensors
+Character/Naomi Evans3216 IL NoobAIXL075.safetensors
+Character/renyama_v2_sn75.safetensors
+Character/Takagi_Teasing_Master_Takagi-SanKarakai_Jouzu_no_Takagi-san_-_Illustrious_V2.safetensors
+Character/yuitsuka inori_v1.0_medalist_IllustriousXL_epoch-000054.safetensors
