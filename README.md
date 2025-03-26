@@ -14,3 +14,5 @@ In such nodes like it, you shoule input any lora's name or path in, and there is
 
 ![屏幕截图 2025-03-26 230619](https://github.com/user-attachments/assets/74c30f94-573c-4ffc-96d3-65ed8b591014)
 
+The workflow unsupport multi-character loras. And if the pormpts given by authors in werid format, may lead to image collapse, although I have tried to avoid the condition.
+
