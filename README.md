@@ -6,6 +6,6 @@ Dont change the content of binary.txt, random.txt and randomint.txt.
 About other txt files, the content need to be as follow:
 
 all.txt --- Put all  prompts which  will not conflict with the characters themselves here, like actions, expressions, decorations... you can add another simple character here like 1boy.
-You can also add the lora's path here, like sex/LoRAKissyFaceNoobAIXLvPred.safetensors, and the workflow will detect it and automatically generate relevant prompts.
+You can also add the lora's name (or path) here, like LoRAKissyFaceNoobAIXLvPred.safetensors, and the workflow will detect it and automatically generate relevant prompts.
 
-loracharacter.txt and clothes.txt --- Put the character and clothes lora path there. In loracharacter.txt, maybe you can directly put prompts, but I have not tried before.
+loracharacter.txt and clothes.txt --- Put the character and clothes lora name or path there. In loracharacter.txt, maybe you can directly put prompts, but I have not tried before.
