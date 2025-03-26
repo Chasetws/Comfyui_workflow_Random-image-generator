@@ -12,6 +12,8 @@ loracharacter.txt and clothes.txt --- Put the character and clothes lora name or
 
 On the setting, there is certain probability to add clothes lora in the image, so if there is no info about clothes lora, please try more times.
 
+Now, you can use slider lora in random weight in the workflow, and I add a bit diversity in action group, to make sure some loras can be triggered. (But it increases the probability of image collapse a bit)
+
 In such nodes like it, you shoule input any lora's name or path in, and there is no function to the image, just to conduct with no error.
 
 ![屏幕截图 2025-03-26 230619](https://github.com/user-attachments/assets/74c30f94-573c-4ffc-96d3-65ed8b591014)
