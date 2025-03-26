@@ -10,6 +10,6 @@ You can also add the lora's name (or path) here, like LoRAKissyFaceNoobAIXLvPred
 
 loracharacter.txt and clothes.txt --- Put the character and clothes lora name or path there. In loracharacter.txt, maybe you can directly put prompts, but I have not tried before.
 
-In such node like it, Input any lora in it, there is no function to the image, just to conduct with no error.
+In such nodes like it, you shoule input any lora's name or path in, and there is no function to the image, just to conduct with no error.
 ![屏幕截图 2025-03-26 230619](https://github.com/user-attachments/assets/74c30f94-573c-4ffc-96d3-65ed8b591014)
 
